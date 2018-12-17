@@ -1,4 +1,4 @@
-#Based on [google pagespeed insights](https://developers.google.com/speed/pagespeed/insights/?url=https:%2F%2Frawgit.com%2Ftinect%2Fmaster%2Foptimizertest%2Findex.md&tab=desktop)
+#Based on [google pagespeed insights](https://developers.google.com/speed/pagespeed/insights/?url=https:%2F%2Fgithub.com%2Ftinect%2Foptimizertest%2Fblob%2Fmaster%2Findex.md&tab=desktop)
 
 >I would suggest, to use optimus.io, but just, if there aren't much images with texts in it
 
